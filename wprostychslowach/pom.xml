@@ -10,7 +10,6 @@
     <version>1.0.0</version>
     <modules>
         <module>polymorphism</module>
-        <module>abstraction</module>
     </modules>
     <build>
         <plugins>
