@@ -2,6 +2,7 @@ package accouting;
 
 import java.time.LocalDateTime;
 
+/* Encapsulation */
 final class Account {
     private State state;
     private LocalDateTime deactivationDate;
