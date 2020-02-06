@@ -11,6 +11,7 @@
     <modules>
         <module>polymorphism</module>
         <module>encapsulation</module>
+        <module>immutable</module>
     </modules>
     <build>
         <plugins>
