@@ -12,6 +12,7 @@
         <module>polymorphism</module>
         <module>encapsulation</module>
         <module>immutable</module>
+        <module>ifitizm</module>
     </modules>
     <build>
         <plugins>
