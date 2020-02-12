@@ -1,5 +1,3 @@
-package dbc;
-
 import java.math.BigDecimal;
 
 public class Client {
@@ -8,7 +6,7 @@ public class Client {
 
         BigDecimal balance = new BigDecimal(150);
         BigDecimal transferAmount = new BigDecimal(100);
-        String fromAccountNumber = "12345678901234567890122456";
+        String fromAccountNumber = "12345678901234567890123456";
 
         // it's final so invariant "toAccountNumber == old(toAccountNumber)" is always true beacause of being final
         final String toAccountNumber = "12345678901234567890123456";
