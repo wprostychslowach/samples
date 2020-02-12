@@ -13,7 +13,7 @@
         <module>encapsulation</module>
         <module>immutable</module>
         <module>ifitizm</module>
-        <module>dbc</module>
+        <module>designbycontract</module>
     </modules>
     <build>
         <plugins>

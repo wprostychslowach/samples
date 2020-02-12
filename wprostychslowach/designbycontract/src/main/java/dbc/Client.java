@@ -1,5 +1,8 @@
+package dbc;
+
 import java.math.BigDecimal;
 
+// pass -ea to jvm
 public class Client {
     public static void main(String[] args) {
         TransferServiceProvider transferServiceProvider = new TransferServiceProvider();
