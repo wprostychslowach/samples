@@ -14,6 +14,7 @@
         <module>immutable</module>
         <module>ifitizm</module>
         <module>designbycontract</module>
+        <module>dependencyinversion</module>
     </modules>
     <build>
         <plugins>
