@@ -15,6 +15,7 @@
         <module>ifitizm</module>
         <module>designbycontract</module>
         <module>dependencyinversion</module>
+        <module>generics</module>
     </modules>
     <build>
         <plugins>
